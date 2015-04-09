@@ -1,0 +1,28 @@
+The lessons I've learned today were good.
+that is a fucked up word. 
+
+
+ more or less are also commands on the command line to view file. This is in addition to cat. 
+
+
+# Socket is a bi-directional input output. 
+# I.P Address is the address that points towards your computer! 
+
+# I.P Address is like the name of your Shipping bay. Where you receive and deliver cargo across the open seas. 
+# And ports are open docking areas. ! 
+# there are certain parts that will alwayssss be open. You shouldn't tamper with them. FTP data over port 21 and 22. 
+# SSH is when you talk to another computer and control their terminal. 
+# If someone would listen to the line of the communications, you can't. End to end encryption. 
+# Port 80: Is how you talk to the internet to download things. It's literally where you load things to a page. 
+# There are things out there called Domain Name servers that translates a domain name into an IP address. 
+# It's more friendly for humans to have domain names, that's why we use them. That's it. 
+# All these agents in the system are just IP Numbers. Ports are also just numbers.
+
+#ping literallllllly means.. yo, what's yo number? You call up a domain name, and ask for its IP address.
+
+URL: Uniform Resource Allecator 
+#protocol, host, port, path, query 
+
+You can require files AND libraries.
+
+#Shortcuts: write tag name, and do tab to turn it into tags. 
